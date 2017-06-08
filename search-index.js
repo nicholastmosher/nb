@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["nb"] = {"doc":"Minimal and reusable non-blocking I/O layer","items":[[4,"Error","nb","A non-blocking error",null,null],[13,"Other","","A different kind of error",0,null],[13,"WouldBlock","","This operation requires blocking behavior to complete",0,null],[6,"Result","","A non-blocking result",null,null],[11,"fmt","","",0,{"inputs":[{"name":"self"},{"name":"formatter"}],"output":{"name":"result"}}],[14,"await","","Await operation (won't work until the language gains support for generators)",null,null],[14,"block","","Turns the non-blocking expression `$e` into a blocking operation.",null,null],[14,"try_nb","","Future adapter",null,null]],"paths":[[4,"Error"]]};
+initSearch(searchIndex);
